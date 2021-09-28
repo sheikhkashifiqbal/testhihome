@@ -20,7 +20,7 @@ use App\Models\ShopLanguage;
 use App\Models\ShopShippingStatus;
 use App\Models\ShopBrand;
 use App\Models\StoreBannerImage;
-use Validator; 
+use Validator;  
 use Storage;
 use Illuminate\Http\Request;
 use Illuminate\Support\Str; 
