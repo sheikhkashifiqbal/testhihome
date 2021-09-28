@@ -1,0 +1,13 @@
+{
+    "name": "SellersApp",
+    "alias": "sellersapp",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "App\\Modules\\SellersApp\\Providers\\SellersAppServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "Auth": true,
+    "Common": true,
+    "Products": true,
+    "Sellers": true,
+    "Cart": true,
+    "Orders": true,
+    "Cashier": true,
+    "SellersApp": true,
+    "RateReview": true,
+    "Offers": true,
+    "Notification": true
+}

@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/ratereview",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "App\\Modules\\RateReview\\Providers\\RateReviewServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Modules\\RateReview\\": ""
+        }
+    }
+}

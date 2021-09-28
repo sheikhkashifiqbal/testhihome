@@ -1,0 +1,24 @@
+{
+    "name": "nwidart/sellersapp",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "App\\Modules\\SellersApp\\Providers\\SellersAppServiceProvider"
+            ],
+            "aliases": {
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Modules\\SellersApp\\": ""
+        }
+    }
+}

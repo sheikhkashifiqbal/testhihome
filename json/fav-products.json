@@ -1,0 +1,43 @@
+"products":[
+   {
+      "store":{
+         "seller_id":1,
+         "store_id":1,
+         "name":"Doors Freestyle Grill",
+         "logo":"http://shop.hihoome.com/public/data/brand/doors_logo_small.png",
+         "address":"",
+         "short description":"$stor->description"[
+            "title"
+         ]         "??null",
+         "opening time":"$stor->description"[
+            "title"
+         ]         "??null",
+         "store_rank":"deciemal",
+         "store_reviewer_count":"integer",
+         "liked_by_user":"true/false",
+         "feature_product_images":{
+            "http://shop.hihoome.com/public/data/product/Fettuccine_Pasta.jpg",
+            "http://shop.hihoome.com/public/data/product/Fettuccine_Pasta.jpg"
+         }
+      },
+      "id":1,
+      "name":"Red Gems Salad"      "description":null,
+      "price":85,
+      "product_rank":"deciemal",
+      "product_voter_count":"integer",
+      "shares":0,
+      "comments":0,
+      "likes_count":1,
+      "liked_by_auth_user":false,
+      "description":"A zesty and crunchy amalgamation of pomegranate jewels, mix lettuce, sweetcorn, raisins, baby peppers with mixed velvety Cheese. A must-try!",
+      "prepration_time":null,
+      "ingredients":null,
+      "allergies":null,
+      "gluten_free":null,
+      "weight":null,
+      "images":{
+         "http://shop.hihoome.com/public/data/product/Red_Gem_Salad.jpg",
+         "http://shop.hihoome.com/public/data/product/Red_Gem_Salad.jpg"
+      }
+   }
+]

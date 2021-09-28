@@ -1,0 +1,57 @@
+{
+   "lang":"en",
+   "status":"1",
+   "code":200,
+   "error_msg":"",
+   "errors":{
+
+   },
+   "response_data":{
+      "seller_id":1,
+      "store_id":1,
+      "name":"Doors Freestyle Grill",
+      "logo":"http://shop.hihoome.com/public/data/brand/doors_logo_small.png",
+      "liked_by_auth_user":true,
+      "rank":"4.5",
+      "reviewer_count":"550",
+      "description":"",
+      "address":"",
+      "location":"Dubai",
+      "sublocation":"Al barsha",
+      "feature_images":{
+         "http://shop.hihoome.com/public/data/product/Fettuccine_Pasta.jpg",
+         "http://shop.hihoome.com/public/data/product/Fettuccine_Pasta.jpg"
+      }
+   },
+   
+      {
+         "id":1,
+         "image":"http://shop.hihoome.com/public/data/category/The_Fresh_Salad.jpg",
+         "name":"SALADS",
+         "products":[
+            {
+               "id":1,
+               "images":{
+                  "http://shop.hihoome.com/public/data/product/Red_Gem_Salad.jpg",
+                  "http://shop.hihoome.com/public/data/product/Red_Gem_Salad.jpg"
+               },
+               "price":85,
+               "currency":"AED",
+               "shares":0,
+               "comments":0,
+               "likes_count":1,
+               "liked_by_auth_user":false,
+               "rank":"4.5",
+               "reviewer_count":"550",
+               "description":"A zesty and crunchy amalgamation of pomegranate jewels, mix lettuce, sweetcorn, raisins, baby peppers with mixed velvety Cheese. A must-try!",
+               "prepration_time":null,
+               "ingredients":null,
+               "allergies":null,
+               "gluten_free":null,
+               "weight":null
+            }
+         ]
+      }
+   ]
+}
+}
